@@ -798,6 +798,7 @@
     <!-- 🦶 Footer -->
     <footer class="footer">
         <p>Copyright © 2020 - Inaklug Indonesia | 
+             <a href="#">Hak cipta dilindungi undang-undang</a></p>
     </footer>
 
     @stack('scripts')
